@@ -8,6 +8,7 @@ The dataset used for this classification task is sourced from [Kaggle](https://w
 
 ## 🏷️ Tags
 - 🍄 **Mushroom Classification**
+- ⚖️ **Binary Classification**
 - 📈 **Data Science**
 - 🧠 **Machine Learning**
 - 📊 **Data Analysis**
